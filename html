@@ -22,5 +22,3 @@
     <img class="chart-image" src="https://www.freeimg.cn/i/2024/01/26/65b3aba3d5c07.png" alt="Chart">  
     <img class="chart-image" src="https://www.freeimg.cn/i/2024/01/26/65b3abda790a2.png" alt="Chart">  
  
-</body>  
-</html>
